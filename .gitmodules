@@ -1,0 +1,3 @@
+[submodule "eak"]
+	path = eak
+	url = git@github.com:drumrollhq/E.A.K..git
