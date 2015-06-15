@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 32 32" enable-background="new 0 0 32 32" xml:space="preserve">
+<g id="Layer_1">
+	<circle fill="#322756" cx="16" cy="17" r="15"/>
+	<rect x="1" y="15" fill="#322756" width="30" height="2"/>
+</g>
+<g id="Layer_2">
+	<circle fill="#473475" cx="16" cy="15" r="15"/>
+</g>
+<g id="Layer_3">
+	<g>
+		<g id="Left_Ear">
+			<polygon fill="#FFFFFF" points="7.5,16 6,7 14.2,10.1 13.9,10.3 11.6,11.2 9.3,13.1 7.9,15.2 			"/>
+			<polygon fill="#FFFFFF" points="7.9,15.2 7,8.1 13.9,10.3 11.6,11.2 9.3,13.1 			"/>
+			<polygon fill="#FFFFFF" points="7,8.1 9.3,13.1 11.6,11.2 			"/>
+		</g>
+		<g id="Right_Ear">
+			<polygon fill="#FFFFFF" points="24.5,16.2 26,7 17.9,10 18.4,10.3 20.4,11 23.3,13.3 24.1,15.8 			"/>
+			<polygon fill="#FFFFFF" points="24.1,15.8 25,8.1 18.4,10.3 20.1,10.9 23.3,13.3 			"/>
+			<polygon fill="#FFFFFF" points="25,8.1 20.1,10.9 23.3,13.3 			"/>
+		</g>
+		<polygon id="Head_1_" fill="#FFFFFF" points="7,17.5 8.1,13.9 12,10.6 16,9.7 19.4,10.3 23.4,13.1 25,17.5 24.2,20.6 21.1,24 
+			16,25.3 11.3,24.2 7.9,20.8 		"/>
+	</g>
+</g>
+</svg>
